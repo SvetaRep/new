@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите три целых числа ");
+﻿Console.WriteLine("Введите поочередно три целых числа ");
 
 int a = Convert.ToInt32(Console.ReadLine() );
 int b = Convert.ToInt32(Console.ReadLine() );
